@@ -2,7 +2,7 @@
   <configuration default="false" name="CarbonCoffee" type="JarApplication" singleton="false" show_console_on_std_err="true" show_console_on_std_out="true">
     <extension name="coverage" sample_coverage="false" />
     <option name="JAR_PATH" value="$PROJECT_DIR$/build/CarbonCoffee.jar" />
-    <option name="VM_PARAMETERS" value="--module-path --add-modules javafx.controls,javafx.fxml" />
+    <option name="VM_PARAMETERS" value="--module-path _deps/ --add-modules javafx.controls,javafx.fxml" />
     <option name="WORKING_DIRECTORY" value="D:\src\_repos\CarbonCoffee" />
     <option name="ALTERNATIVE_JRE_PATH" />
     <method v="2" />
