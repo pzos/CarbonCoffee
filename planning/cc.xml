@@ -3,7 +3,58 @@
   <color>
     <meta>
       <properties>
-        <name text="CarbonCoffee File Format (*.cc) - Sample 0D Color" />
+        <name text="{RichText+}" title="{RichText+}">
+          <version_history>
+            <rev revision="{Number}" text="{RichText+}" date="{Date &amp; time}" comment="{RichText+}" title="{RichText+}" />
+          </version_history>
+          <comments>
+            <comment text="{RichText+}" title="{RichText+}">
+              <version_history>
+                <rev revision="{Number}" text="{RichText+}" date="{Date &amp; time}" comment="{RichText+}" title="{RichText+}" />
+              </version_history>
+            </comment>
+          </comments>
+        </name>
+        <date>
+          <created date="{Date &amp; time}" by="{RichText+}">
+            <comments>
+              <comment text="{RichText+}" title="{RichText+}">
+                <version_history>
+                  <rev revision="{Number}" text="{RichText+}" date="{Date &amp; time}" comment="{RichText+}" title="{RichText+}" />
+                </version_history>
+              </comment>
+            </comments>
+            <custom_properties>
+              <prop text="{RichText+}" comment="{RichText+}">
+                <version_history>
+                  <rev revision="{Number}" date="{Date &amp; time}" text="{RichText+}" comment="{RichText+}" prop_comment="{RichText+}" />
+                </version_history>
+              </prop>
+            </custom_properties>
+          </created>
+          <modified>
+            <entry date="{Date &amp; time}" by="{RichText+}">
+              <comments>
+                <comment text="{RichText+}" title="{RichText+}">
+                  <version_history>
+                    <rev revision="{Number}" text="{RichText+}" date="{Date &amp; time}" comment="{RichText+}" title="{RichText+}" />
+                  </version_history>
+                </comment>
+              </comments>
+              <custom_properties>
+                <prop text="{RichText+}" comment="{RichText+}">
+                  <version_history>
+                    <rev revision="{Number}" date="{Date &amp; time}" text="{RichText+}" comment="{RichText+}" prop_comment="{RichText+}" />
+                  </version_history>
+                </prop>
+              </custom_properties>
+            </entry>
+          </modified>
+          <hidden />
+          <un_hidden />
+          <deleted />
+          <opened />
+        </date>
       </properties>
       <custom_properties />
     </meta>
