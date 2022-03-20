@@ -1,7 +1,7 @@
 # CarbonCoffee
 It used to be a Java 17 experiment, but now it has moved to C++. The SVN repository is [here](https://9a05-2601-647-6300-6380-14cb-aa1e-daf5-79a9.ngrok.io/svn/CarbonCoffee). Unfortunately my server software doesn't allow anonymous authentication, so **all you need to do to sign in is type lowercase a in both Username and Password fields.**  
 
-Once I get a Mac, I'll make it native for that platform too (with the [C++ port of Metal](https://developer.apple.com/metal/cpp/)) and ditch Java because it's too slow.  
+Once I get a Mac, I'll make it native for that platform too (with the [C++ port of Metal](https://developer.apple.com/metal/cpp/)).  
 
 The GitHub repository is only for GitHub-specific things like Issues, Discussions, etc. and also for keeping backups of the SVN repository. Note that the backups are encrypted since they contain passwords.
 
