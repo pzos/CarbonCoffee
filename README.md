@@ -9,4 +9,4 @@ The GitHub repository is only for GitHub-specific things like Issues, Discussion
 Because I'm honestly tired of Java. No thanks, I just want to go back to good old-fashioned sources and headers. No more packages and Maven and Gradle stuff, please.
 
 ## Why is this in the PizzaOS organization?
-PizzaOS is having some [issues](https://github.com/pzos/PizzaOS/issues/1) that I don't know how to fix, so I'm working on this until someone steps up to work on that.
+Nothing, it's just a side project.
